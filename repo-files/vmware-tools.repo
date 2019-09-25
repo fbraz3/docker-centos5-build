@@ -1,0 +1,6 @@
+[vmware-tools]
+name=VMware Tools
+baseurl=http://packages.vmware.com/tools/esx/4.0u2/rhel5/x86_64
+enabled=1
+gpgcheck=1
+gpgkey=file:///usr/local/install/VMWARE-PACKAGING-GPG-KEY.pub
